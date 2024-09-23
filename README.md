@@ -1,3 +1,4 @@
+
 # AudioVisualCircle
 
 Welcome to AudioVisualCircle, where the harmony of sound meets the elegance of visual art. This repository is dedicated to exploring the fascinating intersection of audio and visual data using Python. Dive into the code and discover how to transform simple images into captivating circular visuals that dance to the rhythm of audio inputs.
@@ -20,6 +21,13 @@ To get started, clone the repository and ensure you have the required dependenci
 - PIL (Python Imaging Library)
 
 Follow the instructions in the README to set up your environment and run the script. You're now ready to create your own audio-visual masterpieces!
+
+## Note
+You need to make a stereo mix enabled
+
+![Capture](https://github.com/user-attachments/assets/c80a1acf-90ce-4f62-b385-233796da3bbf)
+
+
 
 ## Contribution
 Contributions are welcome! Whether it's a feature request, bug report, or a pull request, your input is valuable. Let's make AudioVisualCircle an even better tool for audio-visual creativity.
